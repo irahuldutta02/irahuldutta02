@@ -1,5 +1,5 @@
 
-# Hi, I'm Rahul! 👋
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Rahul!](https://rahuldutta.netlify.app/) 
 
 
 ## 🚀 About Me
@@ -14,3 +14,5 @@ I'm a Software Developer.
 
 ## 🛠 Skills
 Java, Javascript, HTML, CSS
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=github.com/rdtech2002)
