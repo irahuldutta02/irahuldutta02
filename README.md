@@ -4,7 +4,7 @@
 #### I am a Developer from INDIA
 Portfolio: [rahuldutta.netlify.app](https://rahuldutta.netlify.app)
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: JAVA / SPRING BOOT / REACT / JS / HTML / CSS / NODE JS / GIT & GITHUB
 
 - 🔭 I’m currently working on Frontend Development 
 - 🌱 I’m currently learning Backend Development 
