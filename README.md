@@ -1,7 +1,14 @@
 ![I am a Developer from INDIA](https://media-exp2.licdn.com/dms/image/C4D16AQEBgW3pPegduw/profile-displaybackgroundimage-shrink_350_1400/0/1601923520885?e=1661385600&v=beta&t=W5kPsBr8KTQAjKDbp4OCtaHkvKYRN3Vh2FnZqgiH2Zw)
 ![Profile views](https://gpvc.arturio.dev/rdtech2002)  
-### Hi there 👋, my name is Rahul!
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, my name is Rahul!
 #### I am a Developer from INDIA
+
+<a href="https://linkedin.com/in/rdtech2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rdtech2002" height="30" width="40" /></a>
+<a href="https://twitter.com/irahuldutta02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irahuldutta02" height="30" width="40" /></a> 
+ <a href="https://facebook.com/irahuldutta02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="irahuldutta02" height="30" width="40" /></a>
+<a href="https://instagram.com/irahuldutta02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irahuldutta02" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rahul_dutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahul_dutta" height="30" width="40" /></a>
+
 Portfolio: [rahuldutta.netlify.app](https://rahuldutta.netlify.app)
 
 Skills: JAVA / SPRING BOOT / REACT / JS / HTML / CSS / NODE JS / GIT & GITHUB
@@ -15,7 +22,7 @@ Skills: JAVA / SPRING BOOT / REACT / JS / HTML / CSS / NODE JS / GIT & GITHUB
 - ⚡ Fun fact: James Gosling and his team were cleaning up C++ and accidently wound up with a new language. Now days we know it as JAVA. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rdtech2002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' >](https://www.linkedin.com/in/rdtech2002/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/irahuldutta02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/irahuldutta02/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/irahuldutta02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](rahuldutta.netlify.app)  
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdtech2002)](https://github.com/anuraghazra/github-readme-stats)
 
