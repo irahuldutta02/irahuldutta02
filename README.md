@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/irahuldutta02" target="blank"><img src="https://img.shields.io/twitter/follow/irahuldutta02?logo=twitter&style=for-the-badge" alt="irahuldutta02" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [rahuldutta.netlify.app](rahuldutta.netlify.app)
+- 👨‍💻 All of my projects are available [HERE](https://github.com/rdtech2002?tab=repositories)
 
 - 💬 Ask me about **Java, JavaScript.**
 
