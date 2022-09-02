@@ -1,5 +1,3 @@
-![I am a Developer from INDIA](https://media-exp2.licdn.com/dms/image/C4D16AQEBgW3pPegduw/profile-displaybackgroundimage-shrink_350_1400/0/1601923520885?e=1661385600&v=beta&t=W5kPsBr8KTQAjKDbp4OCtaHkvKYRN3Vh2FnZqgiH2Zw)
-![Profile views](https://gpvc.arturio.dev/rdtech2002)  
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, my name is Rahul!
 #### I am a Developer from INDIA
 
@@ -37,3 +35,4 @@ Skills: JAVA / SPRING BOOT / REACT / JS / HTML / CSS / NODE JS / GIT & GITHUB
 [![trophy](https://github-profile-trophy.vercel.app/?username=rdtech2002)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+![Profile views](https://gpvc.arturio.dev/rdtech2002)  
