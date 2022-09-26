@@ -15,7 +15,7 @@ Skills: JAVA / SPRING BOOT / REACT / JS / HTML / CSS / NODE JS / GIT & GITHUB
 - 🌱 I’m currently learning Backend Development 
 - 👯 I’m looking to collaborate on Fullstack Projects. 
 - 💬 Ask me about JAVA 
-- 📫 Reach me at: [linkedin](https://linkedin.com/in/irahuldutta02) 
+- 📫 Reach me at: rdtech2002@gmail.com 
 - 😄 Pronouns: He, Him, His 
 - ⚡ Fun fact: James Gosling and his team were cleaning up C++ and accidently wound up with a new language. Now days we know it as JAVA. 
 
