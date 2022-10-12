@@ -9,7 +9,7 @@
 
 Portfolio: [rahuldutta.netlify.app](https://rahuldutta.netlify.app)
 
-Skills: JAVA / C / JS / HTML / CSS / GIT & GITHUB
+Skills: JAVA / C / HTML / CSS / JS / GIT & GITHUB
 
 - 🔭 I’m currently working on Frontend Development 
 - 🌱 I’m currently learning Backend Development 
