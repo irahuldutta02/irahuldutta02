@@ -9,7 +9,7 @@
 
 Portfolio: [rahuldutta.netlify.app](https://rahuldutta.netlify.app)
 
-Skills: JAVA / SPRING BOOT / REACT / JS / HTML / CSS / NODE JS / GIT & GITHUB
+Skills: JAVA / C / JS / HTML / CSS / GIT & GITHUB
 
 - 🔭 I’m currently working on Frontend Development 
 - 🌱 I’m currently learning Backend Development 
