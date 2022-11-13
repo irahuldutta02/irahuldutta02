@@ -24,8 +24,6 @@ Skills: JAVA / C / HTML / CSS / JS / GIT & GITHUB
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irahuldutta02)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rdtech2002&show_icons=true)  
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=irahuldutta02)  
 
 ![GitHub metrics](https://metrics.lecoq.io/irahuldutta02)  
