@@ -7,7 +7,7 @@
 <a href="https://instagram.com/irahuldutta02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irahuldutta02" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/irahuldutta02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="irahuldutta02" height="30" width="40" /></a>
 
-Portfolio: [rahuldutta.netlify.app](https://rahuldutta.netlify.app)
+Social Links: [linktr.ee/rahuldutta](https://linktr.ee/rahuldutta)
 
 Skills: JAVA / C / HTML / CSS / JS / GIT & GITHUB
 
