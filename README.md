@@ -1,11 +1,11 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Rahul!
 #### I am a Developer from INDIA
 
-<a href="https://linkedin.com/in/irahuldutta02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irahuldutta02" height="30" width="40" /></a>
+<!-- <a href="https://linkedin.com/in/irahuldutta02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irahuldutta02" height="30" width="40" /></a>
 <a href="https://twitter.com/irahuldutta02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irahuldutta02" height="30" width="40" /></a> 
  <a href="https://facebook.com/irahuldutta02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="irahuldutta02" height="30" width="40" /></a>
 <a href="https://instagram.com/irahuldutta02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irahuldutta02" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/irahuldutta02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="irahuldutta02" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/irahuldutta02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="irahuldutta02" height="30" width="40" /></a> -->
 
 Social Links : [linktr.ee/rahuldutta](https://linktr.ee/rahuldutta)
 
