@@ -1,6 +1,6 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Rahul!
 
-## I am a Developer from INDIA
+ I am a Developer from INDIA
 
 ![Profile views](https://gpvc.arturio.dev/irahuldutta02)
 ### Links : [linktr.ee/rahuldutta](https://linktr.ee/rahuldutta)
