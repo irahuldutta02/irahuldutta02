@@ -1,11 +1,8 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Rahul!
 
 ## I am a Developer from INDIA
-<br>
 
 ![Profile views](https://gpvc.arturio.dev/irahuldutta02)
-
-
 ### Links : [linktr.ee/rahuldutta](https://linktr.ee/rahuldutta)
 
 <a href="https://twitter.com/irahuldutta02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irahuldutta02" height="30" width="40" /></a>
@@ -13,8 +10,6 @@
 <a href="https://www.leetcode.com/irahuldutta02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="irahuldutta02" height="30" width="40" /></a>
 <a href="https://instagram.com/irahuldutta02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irahuldutta02" height="30" width="40" /></a>
 <a href="https://facebook.com/irahuldutta02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="irahuldutta02" height="30" width="40" /></a>
-
-<br>
 
 ### Skills :
 
@@ -25,8 +20,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-<br>
-
 - 🔭 I’m currently working on Frontend Development
 - 🌱 I’m currently learning Backend Development
 - 👯 I’m looking to collaborate on Fullstack Projects.
@@ -34,8 +27,6 @@
 - 📫 Reach me at : rdtech2002@gmail.com
 - 😄 Pronoun : He, Him, His
 - ⚡ Fun fact: James Gosling and his team were cleaning up C++ and accidently wound up with a new language. Now days we know it as JAVA.
-
-<br>
 
 ![programming-languages](https://github-readme-stats.vercel.app/api/top-langs?username=irahuldutta02&show_icons=true&locale=en&layout=compact)
 
