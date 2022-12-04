@@ -36,4 +36,4 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=irahuldutta02)
 
-![enter image description here](https://activity-graph.herokuapp.com/graph?username=irahuldutta02)
+![commit graph](https://activity-graph.herokuapp.com/graph?username=irahuldutta02)
