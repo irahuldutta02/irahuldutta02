@@ -2,7 +2,8 @@
 
  I am a Developer from INDIA
 
-![Profile views](https://gpvc.arturio.dev/irahuldutta02)
+<!-- ![Profile views](https://gpvc.arturio.dev/irahuldutta02) -->
+
 ### Links : [linktr.ee/rahuldutta](https://linktr.ee/rahuldutta)
 
 <a href="https://twitter.com/irahuldutta02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irahuldutta02" height="30" width="40" /></a>
@@ -36,4 +37,4 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=irahuldutta02)
 
-![activity-graph](https://activity-graph.herokuapp.com/graph?username=irahuldutta02)
+<!-- ![activity-graph](https://activity-graph.herokuapp.com/graph?username=irahuldutta02) -->
