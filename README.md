@@ -1,4 +1,4 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> Hi , I'm Rahul!
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> Hi , I'm [Rahul!](https://linktr.ee/rahuldutta)
 
  I am a developer from INDIA
 
