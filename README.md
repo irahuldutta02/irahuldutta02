@@ -8,7 +8,7 @@ A developer from INDIA.
 - 💬 Ask me about JAVA
 - 📫 Reach me at : rdtech2002@gmail.com
 - 😄 Pronoun : He, Him, His
-- ⚡ Fun fact: James Gosling and his team were cleaning up C++ and accidently wound up with a new language. Now days we know it as JAVA.
+- ⚡ Fun fact: James Gosling and his team were cleaning up C++ and accidentally wound up with a new language. Nowadays we know it as JAVA.
 
 # 🌐 Socials
 <a href="https://linktr.ee/rahuldutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/irahuldutta02/dynamic-images/main/icons/linktree-no-bg-01.png" alt="irahuldutta02" height="30" width="40" /></a>
