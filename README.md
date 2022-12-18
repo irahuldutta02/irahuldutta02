@@ -1,6 +1,6 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> Hi , I'm [Rahul!](https://linktr.ee/rahuldutta)
 
- I am a developer from INDIA
+A developer from INDIA
 
  - 🔭 I’m currently working on Frontend Development
 - 🌱 I’m currently learning Backend Development
