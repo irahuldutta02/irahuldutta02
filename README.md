@@ -26,21 +26,9 @@ A developer from INDIA.
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/git-icon-round.png?raw=true" alt="git" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/sql-icon-round.png?raw=true" alt="mysql" width="40" height="40"/> </a>&nbsp;
 
-# 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irahuldutta02&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="rahuldutta-github-stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=irahuldutta02&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="rahuldutta-github-stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irahuldutta02&theme=radical&hide_border=false" alt="rahuldutta-github-streak-stats"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=irahuldutta02" alt="rahuldutta-github-streak-stats"/>
-</p>
-
-
-<!-- 
-
-![](https://github-readme-stats.vercel.app/api?username=irahuldutta02&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=irahuldutta02&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=irahuldutta02&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
+# 📊 GitHub Stats:
+![most-used-language](https://github-readme-stats.vercel.app/api/top-langs/?username=irahuldutta02&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![rahuldutta's-github-stats](https://github-readme-stats.vercel.app/api?username=irahuldutta02&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![github-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=irahuldutta02&theme=radical&hide_border=false)<br/>
 ![trophy](https://github-profile-trophy.vercel.app/?username=irahuldutta02)
- -->
+
