@@ -32,5 +32,3 @@ A developer from INDIA.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=irahuldutta02&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=irahuldutta02)
-
-<!-- ![activity-graph](https://activity-graph.herokuapp.com/graph?username=irahuldutta02) -->
