@@ -1,4 +1,4 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> Hi , I'm [Rahul!](https://linktr.ee/rahuldutta)
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> Hi , I'm [Rahul!](https://rahuldutta.bio.link/)
 
 A developer from INDIA.
 
@@ -8,7 +8,7 @@ A developer from INDIA.
 - 💬 Ask me about JAVA
 - 📫 Reach me at : rdtech2002@gmail.com
 - 😄 Pronoun : He, Him, His
-- ⚡ Fun fact: James Gosling and his team were cleaning up C++ and accidentally wound up with a new language. Nowadays we know it as JAVA.
+- ⚡ Fun fact: James Gosling and his team were cleaning up C++ and accidentally created a new language. Nowadays we know it as JAVA.
 
 # 🌐 Socials
 <a href="https://rahuldutta.bio.link/" target="blank"><img align="center" src="https://raw.githubusercontent.com/irahuldutta02/dynamic-images/main/persons/rahul-dutta-profile-pic-rounded.png" alt="rahuldutta.bio.link" height="40" width="40" /></a>&nbsp;&nbsp;
