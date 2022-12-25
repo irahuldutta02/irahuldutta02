@@ -19,12 +19,12 @@ A developer from INDIA.
 <a href="https://facebook.com/irahuldutta02" target="blank"><img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/facebook-icon-round.png?raw=true" alt="irahuldutta02" height="40" width="40" /></a>&nbsp;&nbsp;
 
 # 💻 Tech Stack
-<img src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/html5-icon-round-2.png?raw=true" alt="html5" width="40" height="40"/> </a>&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/css3-icon-round.png?raw=true" alt="css3" width="40" height="40"/> </a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/javascript-icon-round.png?raw=true" alt="javascript" width="40" height="40"/> </a>&nbsp;
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/java-icon-round.png?raw=true" alt="java" width="40" height="40"/> </a> &nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/git-icon-round.png?raw=true" alt="git" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/sql-icon-round.png?raw=true" alt="mysql" width="40" height="40"/> </a>&nbsp;
+<img src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/html5-icon-round-2.png?raw=true" alt="html5" width="40" height="40"/>&nbsp;
+<img src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/css3-icon-round.png?raw=true" alt="css3" width="40" height="40"/>&nbsp;
+<img src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/javascript-icon-round.png?raw=true" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/java-icon-round.png?raw=true" alt="java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/git-icon-round.png?raw=true" alt="git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/mysql-icon-round.png?raw=true" alt="mysql" width="40" height="40"/>&nbsp;
 
 # 📊 GitHub Stats:
 ![most-used-language](https://github-readme-stats.vercel.app/api/top-langs/?username=irahuldutta02&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
