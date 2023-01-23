@@ -2,6 +2,8 @@
 
 A full stack developer from INDIA.
 
+![](https://komarev.com/ghpvc/?username=irahuldutta02&style=for-the-badge)
+
 - 🔭 I’m currently working on Frontend Development
 - 🌱 I’m currently learning Backend Development
 - 👯 I’m looking to collaborate on Fullstack Projects.
@@ -15,11 +17,6 @@ A full stack developer from INDIA.
 
 # 🌐 Socials
 <a href="https://rahuldutta.bio.link/" target="blank"><img align="center" src="https://raw.githubusercontent.com/irahuldutta02/dynamic-images/main/persons/rahul-dutta-profile-pic-rounded-2.png" alt="rahuldutta.bio.link" height="40" width="40" /></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/irahuldutta02" target="blank"><img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/linkedin-icon-round.png?raw=true" alt="irahuldutta02" height="40" width="40" /></a>&nbsp;&nbsp;<a href="https://rahuldutta.hashnode.dev/" target="blank"><img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/hashnode-icon-round.png?raw=true" alt="irahuldutta02" height="40" width="40" /></a>&nbsp;&nbsp;<a href="https://www.leetcode.com/irahuldutta02" target="blank"><img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/leetcode-icon-round.png?raw=true" alt="irahuldutta02" height="40" width="40" /></a>&nbsp;&nbsp;<a href="https://twitter.com/irahuldutta02" target="blank"><img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/twitter-icon-round.png?raw=true" alt="irahuldutta02" height="40" width="40" /></a>&nbsp;&nbsp;<a href="https://instagram.com/irahuldutta02" target="blank"><img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/instagram-icon-round.png?raw=true" alt="irahuldutta02" height="40" width="40" /></a>&nbsp;&nbsp;<a href="https://facebook.com/irahuldutta02" target="blank"><img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/facebook-icon-round.png?raw=true" alt="irahuldutta02" height="40" width="40" /></a>&nbsp;&nbsp;
-
- <!-- # 🌟 Featured
-`links - ` `Portfolio - `<a href="https://rahuldutta.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/irahuldutta02/dynamic-images/main/persons/rahul-dutta-profile-pic-rounded.png" alt="rahuldutta.bio.link" height="40" width="40" /></a>&nbsp;&nbsp; -->
-
-
 
 
 # 💻 Tech Stack
