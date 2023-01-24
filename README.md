@@ -31,6 +31,4 @@ A full stack developer from INDIA.
 
 <img src="https://github-readme-stats.vercel.app/api?username=irahuldutta02&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="rahuldutta's-github-stats" width="100%"> <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=irahuldutta02&theme=radical" alt="github-streak-stats" width="100%"> <br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=irahuldutta02" alt="trophy" width="100%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=irahuldutta02&theme=radical" alt="github-streak-stats" width="100%">
