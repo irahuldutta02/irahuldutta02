@@ -26,7 +26,11 @@ A full stack developer from INDIA.
 - `Tools` &nbsp;&nbsp;&nbsp;  <img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/git-icon-round.png?raw=true" alt="git" width="40" height="40"/>&nbsp;&nbsp;<img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/eclipse-icon-round.png?raw=true" alt="eclipse" width="40" height="40"/>&nbsp;&nbsp;<img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/intelijidea-icon-round.png?raw=true" alt="intelijidea" width="40" height="40"/>&nbsp;&nbsp;<img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/vscode-icon-round.png?raw=true" alt="vscode" width="40" height="40"/>&nbsp;&nbsp;<img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/figma-icon-round.png?raw=true" alt="figma" width="40" height="40"/>&nbsp;&nbsp;
 
 # 📊 GitHub Stats:
-![most-used-language](https://github-readme-stats.vercel.app/api/top-langs/?username=irahuldutta02&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![rahuldutta's-github-stats](https://github-readme-stats.vercel.app/api?username=irahuldutta02&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![github-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=irahuldutta02&theme=radical)<br/>
-![trophy](https://github-profile-trophy.vercel.app/?username=irahuldutta02)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irahuldutta02&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="most-used-language" width="600"> <br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=irahuldutta02&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="rahuldutta's-github-stats" width="600"> <br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=irahuldutta02&theme=radical" alt="github-streak-stats" width="600"> <br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=irahuldutta02" alt="trophy" width="600">
