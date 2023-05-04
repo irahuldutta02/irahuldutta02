@@ -27,8 +27,8 @@ A full stack developer from INDIA.
 
 # 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irahuldutta02&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="most-used-language" width="100%" height="215px"> <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irahuldutta02&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="most-used-language" width="100%" height="215px">
 
-<img src="https://github-readme-stats.vercel.app/api?username=irahuldutta02&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="rahuldutta's-github-stats" width="100%" height="170px"> <br>
+<img src="https://github-readme-stats.vercel.app/api?username=irahuldutta02&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="rahuldutta's-github-stats" width="100%" height="170px">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=irahuldutta02&theme=radical" alt="github-streak-stats" width="100%" height="155px">
