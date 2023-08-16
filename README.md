@@ -9,7 +9,7 @@ A full stack developer from INDIA.
 - 👯 I’m looking to collaborate on Fullstack Projects.
 - 💬 Ask me about JAVA
 - 🤵 know more about me : [rahuldutta.netlify.app](https://rahuldutta.netlify.app/)
-- ⚒️ Go through my projects : [rd-projects.netlify.app](https://rd-projects.netlify.app/)
+- ⚒️ Go through my projects : [rahuldutta.netlify.app/projects](https://rahuldutta.netlify.app/projects/)
 - 🔗 Find all my links : [rahuldutta.bio.link](https://rahuldutta.bio.link/)
 - 📫 Reach me at : rdtech2002@gmail.com
 - 😄 Pronoun : He, Him, His
