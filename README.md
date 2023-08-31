@@ -13,7 +13,7 @@ A full stack developer from INDIA.
 - 🔗 Find all my links : [rahuldutta.bio.link](https://rahuldutta.bio.link/)
 - 📫 Reach me at : rdtech2002@gmail.com
 - 😄 Pronoun : He, Him, His
-- ⚡ Fun fact : James Gosling and his team were cleaning up C++ and accidentally created a new language. Nowadays we know it as JAVA.
+- ⚡ Fun fact : JavaScript was originally created in just 10 days by Brendan Eich, who was under pressure to create a new scripting language for the Netscape browser in 1995.
 
 # 🌐 Socials
 <a href="https://rahuldutta.bio.link/" target="blank"><img align="center" src="https://raw.githubusercontent.com/irahuldutta02/dynamic-images/main/persons/rahul-dutta-profile-pic-rounded-2.png" alt="rahuldutta.bio.link" height="40" width="40" /></a>&nbsp;&nbsp;
