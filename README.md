@@ -16,12 +16,16 @@ A full stack developer from INDIA.
 - ⚡ Fun fact : JavaScript was originally created in just 10 days by Brendan Eich, who was under pressure to create a new scripting language for the Netscape browser in 1995.
 
 # 🌐 Socials
-<a href="https://rahuldutta.bio.link/" target="blank"><img align="center" src="https://raw.githubusercontent.com/irahuldutta02/dynamic-images/main/persons/rahul-dutta-profile-pic-rounded-2.png" alt="rahuldutta.bio.link" height="40" width="40" /></a>&nbsp;&nbsp;
+<!-- <a href="https://rahuldutta.bio.link/" target="blank"><img align="center" src="https://raw.githubusercontent.com/irahuldutta02/dynamic-images/main/persons/rahul-dutta-profile-pic-rounded-2.png" alt="rahuldutta.bio.link" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/irahuldutta02" target="blank"><img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/linkedin-icon-round.png?raw=true" alt="irahuldutta02" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://rahuldutta.hashnode.dev/" target="blank"><img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/hashnode-icon-round.png?raw=true" alt="irahuldutta02" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/irahuldutta02" target="blank"><img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/twitter-icon-round.png?raw=true" alt="irahuldutta02" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://instagram.com/irahuldutta02" target="blank"><img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/instagram-icon-round.png?raw=true" alt="irahuldutta02" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://facebook.com/irahuldutta02" target="blank"><img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/facebook-icon-round.png?raw=true" alt="irahuldutta02" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://facebook.com/irahuldutta02" target="blank"><img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/facebook-icon-round.png?raw=true" alt="irahuldutta02" height="40" width="40" /></a>&nbsp;&nbsp; -->
+
+![Static Badge](https://img.shields.io/badge/BioLink-default?style=social&logo=biolink&logoColor=default&labelColor=default&color=default&link=https%3A%2F%2Frahuldutta.bio.link%2F)
+
+
 
 <!-- leet code icon
 <a href="https://www.leetcode.com/irahuldutta02" target="blank"><img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/leetcode-icon-round.png?raw=true" alt="irahuldutta02" height="40" width="40" /></a>&nbsp;&nbsp;
