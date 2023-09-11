@@ -16,13 +16,6 @@ A full stack developer from INDIA.
 - ⚡ Fun fact : JavaScript was originally created in just 10 days by Brendan Eich, who was under pressure to create a new scripting language for the Netscape browser in 1995.
 
 # 🌐 Socials
-<!-- <a href="https://rahuldutta.bio.link/" target="blank"><img align="center" src="https://raw.githubusercontent.com/irahuldutta02/dynamic-images/main/persons/rahul-dutta-profile-pic-rounded-2.png" alt="rahuldutta.bio.link" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/irahuldutta02" target="blank"><img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/linkedin-icon-round.png?raw=true" alt="irahuldutta02" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://rahuldutta.hashnode.dev/" target="blank"><img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/hashnode-icon-round.png?raw=true" alt="irahuldutta02" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/irahuldutta02" target="blank"><img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/twitter-icon-round.png?raw=true" alt="irahuldutta02" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/irahuldutta02" target="blank"><img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/instagram-icon-round.png?raw=true" alt="irahuldutta02" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://facebook.com/irahuldutta02" target="blank"><img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/facebook-icon-round.png?raw=true" alt="irahuldutta02" height="40" width="40" /></a>&nbsp;&nbsp; 
-<a href="https://www.leetcode.com/irahuldutta02" target="blank"><img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/leetcode-icon-round.png?raw=true" alt="irahuldutta02" height="40" width="40" /></a>&nbsp;&nbsp;-->
 
 <a href="https://rahuldutta.bio.link"><img align="center" src="https://img.shields.io/badge/BioLink-default?style=social&logo=biolink" alt="rahuldutta.bio.link"/></a>&nbsp;
 <a href="https://linkedin.com/in/irahuldutta02"><img align="center" src="https://img.shields.io/badge/linkedIn-default?style=social&logo=linkedin" alt="LinkedIn"/></a>&nbsp;
@@ -31,41 +24,31 @@ A full stack developer from INDIA.
 <a href="https://instagram.com/irahuldutta02"><img align="center" src="https://img.shields.io/badge/Instagram-default?style=social&logo=instagram" alt="instagram"/></a>&nbsp;
 <a href="https://facebook.com/irahuldutta02"><img align="center" src="https://img.shields.io/badge/facebook-default?style=social&logo=facebook" alt="facebook"/></a>&nbsp;
 
-
 # 💻 Tech Stack
 
-### `🔣 Languages, libraries and frameworks` 
+### 🔣 *Languages, libraries and frameworks*
 
-![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=bootstrap)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=flat-square&logo=tailwindcss)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwindcss)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge)
 
+### 🛠️ *Tools & Technologies*
 
-
-
-
-
-
-
-<!-- <img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/html5-icon-round.png?raw=true" alt="html5" width="40" height="40"/>&nbsp;&nbsp;
-<img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/css3-icon-round.png?raw=true" alt="css3" width="40" height="40"/>&nbsp;&nbsp;
-<img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/bootstrap-icon-round.png?raw=true" alt="bootstrap" width="40" height="40"/>&nbsp;&nbsp;
-<img align="center" src="https://i.postimg.cc/kX5n7TQg/tailwind-icon-rounded.png" alt="tailwind" width="40" height="40"/>&nbsp;&nbsp;
-<img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/javascript-icon-round.png?raw=true" alt="javascript" width="40" height="40"/>&nbsp;&nbsp;
-<img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/java-icon-round.png?raw=true" alt="java" width="40" height="40"/>&nbsp;&nbsp;
-<img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/mysql-icon-round.png?raw=true" alt="mysql" width="40" height="40"/>&nbsp;&nbsp;
-<img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/javajdbc-icon-round.png?raw=true" alt="java-jdbc" width="40" height="40"/>&nbsp;&nbsp; -->
-
-### `🛠️ Tools & Technologies`
-
-
-<!-- <img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/git-icon-round.png?raw=true" alt="git" width="40" height="40"/>&nbsp;&nbsp;
-<img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/eclipse-icon-round.png?raw=true" alt="eclipse" width="40" height="40"/>&nbsp;&nbsp;
-<img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/intelijidea-icon-round.png?raw=true" alt="intelijidea" width="40" height="40"/>&nbsp;&nbsp;
-<img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/vscode-icon-round.png?raw=true" alt="vscode" width="40" height="40"/>&nbsp;&nbsp;
-<img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/figma-icon-round.png?raw=true" alt="figma" width="40" height="40"/>&nbsp;&nbsp; -->
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)
+![mysql](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
+![JDBC](https://img.shields.io/badge/JDBC-black?style=for-the-badge)
+![Eclipse](https://img.shields.io/badge/eclipse-black?style=for-the-badge&logo=eclipse)
+![intellijidea](https://img.shields.io/badge/intellijidea-black?style=for-the-badge&logo=intellijidea)
+![visualstudiocode](https://img.shields.io/badge/VS%20CODE-black?style=for-the-badge&logo=visualstudiocode)
+![figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)
+![microsoftexcel](https://img.shields.io/badge/MS%20Excel-black?style=for-the-badge&logo=microsoftexcel)
+![microsoftword](https://img.shields.io/badge/MS%20Word-black?style=for-the-badge&logo=microsoftword)
+![microsoftpowerpoint](https://img.shields.io/badge/MS%20PPT-black?style=for-the-badge&logo=microsoftpowerpoint)
 
 # 📊 GitHub Stats:
 
