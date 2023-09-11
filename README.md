@@ -23,9 +23,10 @@ A full stack developer from INDIA.
 <a href="https://instagram.com/irahuldutta02" target="blank"><img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/instagram-icon-round.png?raw=true" alt="irahuldutta02" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://facebook.com/irahuldutta02" target="blank"><img align="center" src="https://github.com/irahuldutta02/dynamic-images/blob/main/icons/facebook-icon-round.png?raw=true" alt="irahuldutta02" height="40" width="40" /></a>&nbsp;&nbsp; -->
 
-<a href="https://rahuldutta.bio.link/" target="blank"><img align="center" src="https://img.shields.io/badge/BioLink-default?style=social&logo=biolink&logoColor=default&labelColor=default&color=default&link=https%3A%2F%2Frahuldutta.bio.link%2F" alt="rahuldutta.bio.link" /></a>&nbsp;&nbsp;
-
-<!-- ![Static Badge](https://img.shields.io/badge/BioLink-default?style=social&logo=biolink&logoColor=default&labelColor=default&color=default&link=https%3A%2F%2Frahuldutta.bio.link%2F) -->
+<a href="https://rahuldutta.bio.link/" target="blank"><img align="center" src="https://img.shields.io/badge/-default?style=social&logo=biolink&logoColor=red&link=https%3A%2F%2Frahuldutta.bio.link%2F
+" alt="rahuldutta.bio.link" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/irahuldutta02" target="blank"><img align="center" src="https://img.shields.io/badge/-default?style=social&logo=linkedin&logoColor=blue&link=https%3A%2F%2Frahuldutta.bio.link%2F
+" alt="irahuldutta02"/></a>&nbsp;&nbsp;
 
 
 
