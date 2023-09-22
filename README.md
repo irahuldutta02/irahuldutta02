@@ -1,4 +1,4 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> Hi , I'm [Rahul!](https://rahuldutta.bio.link/)
+# Hi, I'm [Rahul!](https://rahuldutta.bio.link/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> 
 
 A full stack developer from INDIA.
 
