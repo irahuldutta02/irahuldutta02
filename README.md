@@ -4,15 +4,14 @@ A full stack web developer from INDIA.
 
 ![](https://komarev.com/ghpvc/?username=irahuldutta02&style=for-the-badge)
 
-- 🔭 I’m currently working on Frontend Development
-- 🌱 I’m currently learning Backend Development
-- 👯 I’m looking to collaborate on Fullstack Projects.
-- 💬 Ask me about Full Stack Development
+- 🔭 I’m currently working on Backend
+- 🌱 I’m currently learning Frontend
+- 👯 I’m looking to collaborate on Fullstack web Projects.
+- 💬 Ask me about Full Stack Web Development
 - 🤵 know more about me : [rahuldutta.netlify.app](https://rahuldutta.netlify.app/)
 - ⚒️ Go through my projects : [rahuldutta.netlify.app/projects](https://rahuldutta.netlify.app/projects/)
 - 🔗 Find all my links : [rahuldutta.bio.link](https://rahuldutta.bio.link/)
 - 📫 Reach me at : rdtech2002@gmail.com
-- 😄 Pronoun : He, Him, His
 - ⚡ Fun fact : JavaScript was originally created in just 10 days by Brendan Eich, who was under pressure to create a new scripting language for the Netscape browser in 1995.
 
 # 🌐 Socials
@@ -53,7 +52,4 @@ A full stack web developer from INDIA.
 # 📊 GitHub Stats:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irahuldutta02&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="most-used-language" width="100%" height="183px">
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=irahuldutta02&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="rahuldutta's-github-stats" width="100%" height="170px"> -->
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=irahuldutta02&theme=radical" alt="github-streak-stats" width="100%" height="155px">
