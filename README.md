@@ -4,8 +4,8 @@
 ![](https://komarev.com/ghpvc/?username=irahuldutta02&style=for-the-badge)
 
 <!-- - 🔭 I’m currently working on Backend
-- 🌱 I’m currently learning Frontend -->
-<!-- - 💬 Ask me about Full Stack Web Development -->
+- 🌱 I’m currently learning Frontend 
+- 💬 Ask me about Full Stack Web Development -->
 - 👯 I’m looking to collaborate on fullstack web dev projects.
 - 🤵 know more about me : [rahuldutta.netlify.app](https://rahuldutta.netlify.app/)
 - ⚒️ Go through my projects : [rahuldutta.netlify.app/projects](https://rahuldutta.netlify.app/projects/)
