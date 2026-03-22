@@ -16,22 +16,24 @@
 # 💻 Tech stack
 
 
+### 🚀 Tech Stack
+
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![mysql](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
-![JDBC](https://img.shields.io/badge/JDBC-black?style=for-the-badge)
-![figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)
-![microsoftexcel](https://img.shields.io/badge/MS%20Excel-black?style=for-the-badge&logo=microsoftexcel)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
 
 # 📊 GitHub Stats:
 
