@@ -9,8 +9,6 @@
 - 👯 I’m looking to collaborate on fullstack web dev projects.
 - 🤵 know more about me : [rahultech.in](https://rahultech.in/)
 - ⚒️ Go through my projects : [rahultech.in/projects](https://rahultech.in/projects/)
-- 📝 Read my articles : [rahuldutta.hashnode.dev](https://rahuldutta.hashnode.dev/)
-<!-- - ⚡ Fun fact : JavaScript was originally created in just 10 days by Brendan Eich, who was under pressure to create a new scripting language for the Netscape browser in 1995. -->
 
 # 🌐 Socials
 
